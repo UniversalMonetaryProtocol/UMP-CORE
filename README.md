@@ -3,7 +3,7 @@ UniversalMonetaryProtocol Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/universalmonetaryprotocol-project/universalmonetaryprotocol.svg?branch=master)](https://travis-ci.org/universalmonetaryprotocol-project/universalmonetaryprotocol)
 
-https://universalmonetaryprotocol.org
+https://umpcoin.com
 
 What is UniversalMonetaryProtocol?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. UniversalMonetaryProtocol Core is the name of o
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the UniversalMonetaryProtocol Core software, see [https://universalmonetaryprotocol.org](https://universalmonetaryprotocol.org).
+the UniversalMonetaryProtocol Core software, see [https://umpcoin.com](https://umpcoin.com).
 
 License
 -------
