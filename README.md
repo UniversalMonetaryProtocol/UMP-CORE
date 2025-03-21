@@ -1,3 +1,25 @@
+set up a node ----------
+# Download
+git clone https://github.com/UniversalMonetaryProtocol/UMP-CORE ump
+# Build dependencies
+cd ~/ump/depends
+make -j$(nproc)
+
+# Go to project root
+cd ..
+
+# Generate configure script
+./autogen.sh
+
+# Configure using depends
+./configure --prefix=$PWD/depends/x86_64-pc-linux-gnu CXXFLAGS="-std=c++14"
+
+# Build project
+make -j$(nproc)
+
+
+
+
 UniversalMonetaryProtocol Core integration/staging tree
 =====================================
 
